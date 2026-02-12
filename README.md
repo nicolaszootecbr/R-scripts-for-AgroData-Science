@@ -1,6 +1,6 @@
 
 R-scripts-for-AgroData-Science
-Este repositório centraliza scripts em linguagem R desenvolvidos para análise de dados aplicados à produção animal, com foco em nutrição, genética e economia agropecuária. O conteúdo é fruto de pesquisas realizadas na Universidade Federal da Bahia (UFBA) e no Observatório da Política Agrícola.
+Este repositório centraliza scripts em linguagem R desenvolvidos para análise de dados aplicados à produção animal, com foco em nutrição, genética e economia agropecuária. O conteúdo é fruto do desenvolvimento continuo do discente Nicolas Adrian, da Universidade Federal da Bahia (UFBA), no Observatório da Política Agrícola, e no Grupo de Estudos e Melhoramento Animal.
 
 🐄 Objetivo
 Disponibilizar ferramentas computacionais reprodutíveis para:
